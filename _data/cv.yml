@@ -1,18 +1,21 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Prashant Singh
+  label: Reserach Scholar
+  email: bioinfoprashant@gmail.com
+  location: 
+    city: Hyderabad
+    region: Telangana
+    countryCode: IN
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: Bioinformatics researcher passionate about AI and computational biology, with a love for music, poetry, current affairs, and lifelong learning.
 
   social_networks:
     - network: X
-      username: AlbertEinstein
+      username: th_PrashantS
     - network: GitHub
-      username: example
+      username: rajputprashantS
     - network: LinkedIn
-      username: example
+      username: prashant-singh-5aa16a184
 
   address:
     street: 2712 Broadway St
