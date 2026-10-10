@@ -6,7 +6,7 @@ subtitle: <a href='https://www.iith.ac.in'> Indian Institute of Technology Hyder
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: PS_Profile.png
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
