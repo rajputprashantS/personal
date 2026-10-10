@@ -18,11 +18,11 @@ cv:
       username: prashant-singh-5aa16a184
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: BNSB LAB, IITH
+    city: Sangareddy
+    region: Telangana
+    postalCode: 502284
+    countryCode: IN
 
   sections:
     Education:
@@ -50,42 +50,24 @@ cv:
           - Description 2.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+    
+      - company: Translational Health Science and Technology Institute
+        position: Project Associate
+        location: Faridabad, India
+        start_date: 2022-06-19  
+        end_date: 2023-8-30
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
+      - company: National institute of Virology
+        position: Project Technical Staff
+        location: Pune, India
+        start_date: 2022-02-21
+        end_date: 2022-04-01
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - company: Amity Institute of Biotechnology
+        position: Project Associate
+        location: Amity University, Noida
+        start_date: 2021-02-21
+        end_date: 2022-01-20
 
     Volunteer:
       - company: People's Climate March
