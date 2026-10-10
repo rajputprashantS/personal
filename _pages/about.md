@@ -31,4 +31,4 @@ I am a bioinformatics researcher with a background in computational biology and 
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Beyond research, I enjoy listening to music, keeping up with current affairs, and writing poetry whenever inspiration strikes. I find joy in expressing thoughts and emotions through words, exploring new ideas, and engaging in meaningful conversations. I love learning about the world, understanding different perspectives, and finding creativity in everyday experiences.
