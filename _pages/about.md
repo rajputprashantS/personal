@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.iith.ac.in'>Indian Institute of Technology Hyderabad</a>. Sangareddy, Telangana
+subtitle: <a href='https://www.iith.ac.in'> Indian Institute of Technology Hyderabad</a>. Sangareddy, Telangana
 
 profile:
   align: right
