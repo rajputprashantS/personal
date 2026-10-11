@@ -62,9 +62,9 @@ cv:
         start_date: 2022-02-21
         end_date: 2022-04-01
 
-      - company: Amity Institute of Biotechnology
+      - company: Amity Institute of Biotechnology, Amity University
         position: Project Associate
-        location: Amity University, Noida
+        location: Noida, India
         start_date: 2021-02-21
         end_date: 2022-01-20
 
