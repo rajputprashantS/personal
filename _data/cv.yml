@@ -105,47 +105,47 @@ cv:
     #     summary: Awarded for outstanding scientific achievement
 
     Publications:
-      - title: "Metagenomics and Antimicrobial Resistance (AMR)"
+      - title: Metagenomics and Antimicrobial Resistance (AMR)
         authors:
-          - "Ankita Hulekal"
-          - "Aadira"
-          - "Prashant Singh"
-        publisher: "CRC Press"
+          - Ankita Hulekal
+          - Aadira
+          - Prashant Singh
+        publisher: CRC Press
         releaseDate: 2026-05-14
-        url: "https://doi.org/10.1201/9781003670155-10"
-        summary: "Discusses the application of metagenomics to antimicrobial resistance (AMR), including the investigation of resistance determinants and microbial communities."
+        url: https://doi.org/10.1201/9781003670155-10
+        summary: Discusses the application of metagenomics to antimicrobial resistance (AMR), including the investigation of resistance determinants and microbial communities.
 
-      - title: "Brain peptides in Alzheimer’s disease-pathophysiology and therapeutic advances"
+      - title: Brain peptides in Alzheimer’s disease-pathophysiology and therapeutic advances
         authors:
-          - "Sonu Pahal"
-          - "Arushi Gupta"
-          - "Vivek Kumar"
-          - "Prashant Singh"
-          - "Monu Kaushik"
-          - "Vishvender Pahal"
-          - "Geethika Atluri"
-          - "Amit Chaudhary"
-        publisher: "Cell and Tissue Research"
+          - Sonu Pahal
+          - Arushi Gupta
+          - Vivek Kumar
+          - Prashant Singh
+          - Monu Kaushik
+          - Vishvender Pahal
+          - Geethika Atluri
+          - Amit Chaudhary
+        publisher: Cell and Tissue Research
         releaseDate: 2026-03-03
-        url: "https://doi.org/10.1007/s00441-026-04055-8"
-        summary: "Reviews the roles of brain peptides in Alzheimer’s disease pathophysiology and discusses emerging therapeutic advances and potential treatment strategies."
+        url: https://doi.org/10.1007/s00441-026-04055-8
+        summary: Reviews the roles of brain peptides in Alzheimer’s disease pathophysiology and discusses emerging therapeutic advances and potential treatment strategies.
 
-      - title: "Trehalose metabolism regulates transcriptional control of muscle development in lepidopteran insects"
+      - title: Trehalose metabolism regulates transcriptional control of muscle development in lepidopteran insects
         authors:
-          - "Sharada Mohite"
-          - "Tanaji Devkate"
-          - "Prashant Kalaskar"
-          - "Prashant Singh"
-          - "Abhishek Subramanian"
-          - "Rakesh Shamsunder Joshi"
-        publisher: "eLife"
+          - Sharada Mohite
+          - Tanaji Devkate
+          - Prashant Kalaskar
+          - Prashant Singh
+          - Abhishek Subramanian
+          - Rakesh Shamsunder Joshi
+        publisher: eLife
         releaseDate: 2026-02-13
-        url: "https://doi.org/10.7554/eLife.109485.1"
-        summary: "Investigates how trehalose metabolism regulates transcriptional control during muscle development in lepidopteran insects."
+        url: https://doi.org/10.7554/eLife.109485.1
+        summary: Investigates how trehalose metabolism regulates transcriptional control during muscle development in lepidopteran insects.
 
-      - title: "Unlocking the mysteries of Alzheimer’s disease: Role of single-cell sequencing in uncovering microbial infections"
+      - title: Unlocking the mysteries of Alzheimer’s disease: Role of single-cell sequencing in uncovering microbial infections
         authors:
-          - "Prashant Singh"
+          - Prashant Singh
           - "Monu Kaushik"
           - "Sarvesh Kumar Gupta"
           - "Amit Chaudhary"
@@ -181,9 +181,10 @@ cv:
           - "Swarsat Nath"
           - "Kamal Rawal"
           - "Others"
-        publisher: "OSF"
-        url: "https://osf.io/"
-        summary: "Investigates quercetin as a potential therapeutic candidate against SARS-CoV-2 using the DrugX drug-repurposing pipeline."
+        publisher: "OSF Preprint"
+        releaseDate: 2021
+        url: https://osf.io/preprints/osf/kuwej_v1
+        summary: Investigates quercetin as a potential therapeutic candidate against SARS-CoV-2 using the DrugX drug-repurposing pipeline.
 
       - title: "COV-drug target interaction server for COVID-19 drug repurposing"
         authors:
@@ -199,7 +200,7 @@ cv:
           - "Trapti Sharma"
         publisher: "OSF Preprint"
         releaseDate: 2021
-        url: "https://osf.io/"
+        url: "10.31219/osf.io/gejwq"
         summary: "Describes a computational server for supporting COVID-19 drug repurposing through the analysis of interactions between candidate drugs and therapeutic targets."
 
       - title: "COV-DOCK server: A web server for COVID-19 ligand-target docking"
@@ -215,6 +216,7 @@ cv:
           - "Others"
         publisher: "OSF Preprint"
         releaseDate: 2021
+        url: 10.31219/osf.io/x2ky5
         summary: "Describes a web server for molecular docking of candidate ligands against COVID-19-related targets to support computational drug discovery."
 
       - title: "Analysis of Indomethacin as a potential drug for COVID-19 using CoV-DrugX Pipeline"
@@ -227,6 +229,7 @@ cv:
           - "Kamal Rawal"
           - "Others"
         publisher: "OSF"
+        releaseDate: 2021
         summary: "Evaluates indomethacin as a potential COVID-19 therapeutic candidate using the CoV-DrugX computational drug-repurposing pipeline."
 
     Skills:
