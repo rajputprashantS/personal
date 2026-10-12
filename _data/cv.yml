@@ -130,10 +130,35 @@ cv:
         summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
     Skills:
-      - name: Physics
+      - name: Bioinformatics
         level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        icon: fa-solid fa-dna
+        keywords: "Computational Biology, Systems Biology, Genome-Scale Metabolic Modeling, Protein Sequence Analysis, Protein Structure Analysis, Genomics, Phylogenetics, Functional Annotation"
+
+      - name: Machine Learning and Artificial Intelligence
+        level: Master
+        icon: fa-solid fa-brain
+        keywords: "Deep Learning, Protein Language Models, ESM, ProtT5, ProtBERT, Subcellular Localization Prediction, Protein Function Prediction, Feature Engineering, Feature Selection, Model Evaluation"
+
+      - name: Systems Biology
+        level: Master
+        icon: fa-solid fa-diagram-project
+        keywords: "Genome-Scale Metabolic Models, Metabolic Network Reconstruction, Flux Balance Analysis, Metabolic Simulation, Pathway Analysis, Gene-Protein-Reaction Associations, Network Analysis, Multi-Omics Integration"
+
+      - name: Programming and Scientific Computing
+        level: Master
+        icon: fa-solid fa-code
+        keywords: "Python, R, Bash, Linux, NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow, Keras, GPU Computing, High-Performance Computing"
+
+      - name: Computational Protein Biology
+        level: Master
+        icon: fa-solid fa-microscope
+        keywords: "Protein Language Models, Protein Embeddings, Protein Subcellular Localization, Signal Peptide Prediction, Transporter Prediction, Protein Structure Prediction, AlphaFold, Protein Function Annotation"
+
+      - name: Computational Genomics and Network Biology
+        level: Advanced
+        icon: fa-solid fa-network-wired
+        keywords: "Genome Analysis, Transcriptomics, Metabolomics, Gene Regulatory Networks, Phylogenetic Analysis, Gene Ontology, Pathway Enrichment, Biological Network Visualization"
 
     Languages:
       - name: Hindi
@@ -143,9 +168,9 @@ cv:
         summary: "Fluent"
 
     Interests:
-      - name: Physics
+      - name: Computational Biology and AI
         icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Bioinformatics, Systems Biology, Genome-Scale Metabolic Modeling, Protein Language Models, Machine Learning, Deep Learning, Protein Subcellular Localization, Metabolic Network Reconstruction, Multi-Omics Integration, Pathogen Biology"
 
     Certificates:
       - name: Machine Learning
