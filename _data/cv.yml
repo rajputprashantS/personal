@@ -28,13 +28,8 @@ cv:
     Education:
       - institution: Indian Institute of Technology Hyderabad
         location: Sangareddy, India
-<<<<<<< Updated upstream
-        url: https://www.iith.ac.in/
-        area: System Biology and Bioinformatics
-=======
         url: https://www.iith.ac.in
         area: Computational Biology
->>>>>>> Stashed changes
         studyType: PhD
         start_date: 2023
         end_date: 2028
