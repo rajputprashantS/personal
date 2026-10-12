@@ -173,20 +173,20 @@ cv:
         keywords: "Bioinformatics, Systems Biology, Genome-Scale Metabolic Modeling, Protein Language Models, Machine Learning, Deep Learning, Protein Subcellular Localization, Metabolic Network Reconstruction, Multi-Omics Integration, Pathogen Biology"
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
+      - name: Python for Data Science
+        date: 2022-03-01
+        issuer: Great Learning
         icon: fa-solid fa-location-dot
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+      # - name: Quantum Computing
+      #   date: 2018-01-01
+      #   issuer: Stanford University
+      #   icon: fa-solid fa-tag
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      # - name: Quantum Information
+      #   date: 2018-01-01
+      #   issuer: Stanford University
+      #   icon: fa-solid fa-envelope
 
     Projects:
       - name: Quantum Computing
