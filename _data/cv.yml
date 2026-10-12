@@ -105,29 +105,129 @@ cv:
     #     summary: Awarded for outstanding scientific achievement
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "Metagenomics and Antimicrobial Resistance (AMR)"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - "Ankita Hulekal"
+          - "Aadira"
+          - "Prashant Singh"
+        publisher: "CRC Press"
+        releaseDate: 2026-05-14
+        url: "https://doi.org/10.1201/9781003670155-10"
+        summary: "Discusses the application of metagenomics to antimicrobial resistance (AMR), including the investigation of resistance determinants and microbial communities."
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: "Brain peptides in Alzheimer’s disease-pathophysiology and therapeutic advances"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - "Sonu Pahal"
+          - "Arushi Gupta"
+          - "Vivek Kumar"
+          - "Prashant Singh"
+          - "Monu Kaushik"
+          - "Vishvender Pahal"
+          - "Geethika Atluri"
+          - "Amit Chaudhary"
+        publisher: "Cell and Tissue Research"
+        releaseDate: 2026-03-03
+        url: "https://doi.org/10.1007/s00441-026-04055-8"
+        summary: "Reviews the roles of brain peptides in Alzheimer’s disease pathophysiology and discusses emerging therapeutic advances and potential treatment strategies."
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: "Trehalose metabolism regulates transcriptional control of muscle development in lepidopteran insects"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - "Sharada Mohite"
+          - "Tanaji Devkate"
+          - "Prashant Kalaskar"
+          - "Prashant Singh"
+          - "Abhishek Subramanian"
+          - "Rakesh Shamsunder Joshi"
+        publisher: "eLife"
+        releaseDate: 2026-02-13
+        url: "https://doi.org/10.7554/eLife.109485.1"
+        summary: "Investigates how trehalose metabolism regulates transcriptional control during muscle development in lepidopteran insects."
+
+      - title: "Unlocking the mysteries of Alzheimer’s disease: Role of single-cell sequencing in uncovering microbial infections"
+        authors:
+          - "Prashant Singh"
+          - "Monu Kaushik"
+          - "Sarvesh Kumar Gupta"
+          - "Amit Chaudhary"
+        publisher: "Journal of Applied Biology & Biotechnology"
+        releaseDate: 2024-04-01
+        url: "https://doi.org/10.7324/JABB.2024.176869"
+        summary: "Explores the potential role of microbial infections in Alzheimer’s disease and the application of single-cell sequencing to investigate disease-associated microbial and cellular interactions."
+
+      - title: "Identification of vaccine targets in pathogens and design of a vaccine using computational approaches"
+        authors:
+          - "Kamal Rawal"
+          - "Robin Sinha"
+          - "Bilal Ahmed Abbasi"
+          - "Amit Chaudhary"
+          - "Swarsat Kaushik Nath"
+          - "Priya Kumari"
+          - "P. Preeti"
+          - "Devansh Saraf"
+          - "Shachee Singh"
+          - "Kartik Mishra"
+          - "Others"
+        publisher: "Scientific Reports"
+        releaseDate: 2021-09-02
+        url: "https://www.nature.com/articles/s41598-021-96863-x"
+        summary: "Presents computational approaches for identifying potential vaccine targets in pathogens and designing vaccine candidates using bioinformatics methods."
+
+      - title: "Impact of Quercetin on SARS-CoV-2 using DrugX Repurposing Pipeline"
+        authors:
+          - "Neha Verma"
+          - "Prashant Singh"
+          - "Robin Sinha"
+          - "Trapti Sharma"
+          - "Swarsat Nath"
+          - "Kamal Rawal"
+          - "Others"
+        publisher: "OSF"
+        url: "https://osf.io/"
+        summary: "Investigates quercetin as a potential therapeutic candidate against SARS-CoV-2 using the DrugX drug-repurposing pipeline."
+
+      - title: "COV-drug target interaction server for COVID-19 drug repurposing"
+        authors:
+          - "Kamal Rawal"
+          - "Prashant Singh"
+          - "Robin Sinha"
+          - "Priya Kumari"
+          - "Swarsat Kaushik Nath"
+          - "Sukriti Sahai Ridhima"
+          - "Sweety Dattatraya Shinde"
+          - "Nikita Garg"
+          - "P. Preeti"
+          - "Trapti Sharma"
+        publisher: "OSF Preprint"
+        releaseDate: 2021
+        url: "https://osf.io/"
+        summary: "Describes a computational server for supporting COVID-19 drug repurposing through the analysis of interactions between candidate drugs and therapeutic targets."
+
+      - title: "COV-DOCK server: A web server for COVID-19 ligand-target docking"
+        authors:
+          - "Kamal Rawal"
+          - "Prashant Singh"
+          - "Robin Sinha"
+          - "Swarsat Kaushik Nath"
+          - "Priya Kumari"
+          - "Sukriti Sahai"
+          - "Trapti Sharma"
+          - "Prateek Paul"
+          - "Others"
+        publisher: "OSF Preprint"
+        releaseDate: 2021
+        summary: "Describes a web server for molecular docking of candidate ligands against COVID-19-related targets to support computational drug discovery."
+
+      - title: "Analysis of Indomethacin as a potential drug for COVID-19 using CoV-DrugX Pipeline"
+        authors:
+          - "Rutuja Pendharkar"
+          - "Prashant Singh"
+          - "Robin Sinha"
+          - "Trapti Sharma"
+          - "Swarsat Nath"
+          - "Kamal Rawal"
+          - "Others"
+        publisher: "OSF"
+        summary: "Evaluates indomethacin as a potential COVID-19 therapeutic candidate using the CoV-DrugX computational drug-repurposing pipeline."
 
     Skills:
       - name: Bioinformatics
