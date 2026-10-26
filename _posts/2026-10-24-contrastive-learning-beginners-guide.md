@@ -5,7 +5,6 @@ date: 2026-10-24 08:00:00 +0530
 description: "A beginner-friendly introduction to contrastive learning, positive and negative pairs, embeddings, contrastive loss, and real-world applications."
 tags: machine-learning deep-learning contrastive-learning representation-learning
 categories: machine-learning
-giscus_comments: true
 related_posts: false
 ---
 
@@ -86,11 +85,11 @@ The training process identifies related and unrelated examples. In image learnin
 
 An encoder—such as a convolutional neural network, a Vision Transformer, or a language model—maps each input to a vector:
 
-$\$[
+$$
 z = f_\theta(x)
-]$
+$$
 
-Here, $(x)$ is the input, $(f_\theta)$ is the encoder with learnable parameters $(\theta)$, and $(z)$ is the resulting embedding.
+Here, $x$ is the input, $f_\theta$ is the encoder with learnable parameters $\theta$, and $z$ is the resulting embedding.
 
 An embedding might contain hundreds or thousands of numbers. Individual dimensions do not usually correspond to simple human-readable concepts, but the geometry of the embedding space can capture useful relationships.
 
@@ -98,26 +97,26 @@ An embedding might contain hundreds or thousands of numbers. Individual dimensio
 
 A **loss function** tells the model how well it is doing. Contrastive losses reward representations that satisfy the intended similarity relationships.
 
-One widely used objective is the InfoNCE loss. For an anchor example $(i)$, its positive example $(j)$, and a set of candidate examples, a simplified form is:
+One widely used objective is the InfoNCE loss. For an anchor example $i$, its positive example $j$, and a set of candidate examples, a simplified form is:
 
-$[
+$$
 \mathcal{L}_i =
 -\log
 \frac{\exp(\operatorname{sim}(z_i,z_j)/\tau)}
-{\sum_{k \ne i}\exp(\operatorname{sim}(z_i,z_k)/\tau)}
-]$
+{\sum_{k \in \mathcal{C}(i)}\exp(\operatorname{sim}(z_i,z_k)/\tau)}
+$$
 
 In this expression:
 
-- $(z_i)$ is the anchor embedding.
-- $(z_j)$ is the embedding of its positive partner.
-- $(\operatorname{sim})$ is a similarity function, often cosine similarity.
-- $(\tau)$ is a temperature parameter that controls how sharply similarity scores affect the loss.
-- The denominator includes candidate examples, typically including the positive and other examples used as negatives.
+- $z_i$ is the anchor embedding.
+- $z_j$ is the embedding of its positive partner.
+- $\operatorname{sim}$ is a similarity function, often cosine similarity.
+- $\tau$ is a positive temperature parameter that scales the similarity scores before the softmax.
+- $\mathcal{C}(i)$ is the set of candidate indices for anchor $i$, including the positive $j$ and the negatives but excluding the anchor $i$.
 
-The objective encourages the positive partner to receive a high similarity score relative to the alternatives. The exact loss and candidate set vary by method.
+The loss is the negative log-probability assigned to the positive partner among the candidates. Minimizing it encourages the positive partner to receive a higher similarity score than the negatives. The exact loss and candidate set vary by method.
 
-You do not need to memorize this equation at the beginning. Keep the intuition in mind: **the model learns by comparing examples, rather than by predicting a separate class label for every input.**
+You do not need to memorize this equation at the beginning. Keep the intuition in mind: **the model learns by comparing examples, with the positive partner as the target among a set of candidates.**
 
 ## 5. Understanding embeddings visually
 
