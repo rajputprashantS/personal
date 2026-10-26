@@ -100,10 +100,7 @@ A **loss function** tells the model how well it is doing. Contrastive losses rew
 One widely used objective is the InfoNCE loss. For an anchor example $i$, its positive example $j$, and a set of candidate examples, a simplified form is:
 
 $$
-\mathcal{L}_i =
--\log
-\frac{\exp(\operatorname{sim}(z_i,z_j)/\tau)}
-{\sum_{k \in \mathcal{C}(i)}\exp(\operatorname{sim}(z_i,z_k)/\tau)}
+\mathcal{L}_i = -\log \frac{\exp(\operatorname{sim}(z_i,z_j)/\tau)} {\sum_{k \in \mathcal{C}(i)}\exp(\operatorname{sim}(z_i,z_k)/\tau)}
 $$
 
 In this expression:
