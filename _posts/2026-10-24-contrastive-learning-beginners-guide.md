@@ -24,7 +24,7 @@ For example:
 - A cat photograph and a photograph of a bus should generally have less similar embeddings.
 - Two sentences that express the same idea should have similar sentence embeddings, even if their wording differs.
 
-![Infographic introducing contrastive learning, positive and negative pairs, embeddings, and applications.](assets/img/contrastive-learning-sketch-part-1.png)
+![Infographic introducing contrastive learning, positive and negative pairs, embeddings, and applications.]({{ '/assets/img/contrastive-learning-sketch-part-1.png' | relative_url }})
 *Figure 1. Overview of contrastive learning: examples are encoded into vectors, and training shapes the embedding space so that related examples are closer together.*
 
 Contrastive learning is often described as **self-supervised learning** when the training signal is created from the data itself—for example, by making two augmented views of the same image a positive pair. It can also be used with labels or other sources of supervision.
@@ -121,7 +121,7 @@ Imagine plotting each embedding as a point on a map. In practice, embeddings may
 
 Before useful training, related examples may be mixed together. After training, examples that share the relationship defined by the objective may form more coherent neighborhoods.
 
-![Schematic of contrastive learning showing examples, an encoder, embeddings, and a contrastive loss.](assets/img/contrastive-learning-sketch-part-2.png)
+![Schematic of contrastive learning showing examples, an encoder, embeddings, and a contrastive loss.]({{ '/assets/img/contrastive-learning-sketch-part-2.png' | relative_url }})
 *Figure 2. The same overview illustrates the main workflow. The embedding-space sketches are conceptual; real learned representations do not always form neat, separate clusters.*
 
 Two important details:
